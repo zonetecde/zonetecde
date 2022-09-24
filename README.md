@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @zonetecde
-- 👀 I’m interested in informatic
-- 🌱 I’m currently learning chsarp advanced
+- 👀 I am interested in computer science
+- 🌱 I’m currently learning csharp advanced
 
