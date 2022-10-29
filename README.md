@@ -15,7 +15,7 @@
 * :office:  Étudiant au lycée Louis Vincent à Metz en première général 
 * 🗣️  رضيت بالله ربا و بالإسلام دينا و بمحمد نبي
 * :newspaper:   Blog en cours de création...
-* :seedling:   Étudie les notions avancées dec#  
+* :seedling:   Étudie les notions avancées de c#  
 * :speech_balloon:   Aime aider sur [le discord de csharp](https://discord.com/invite/csharp)
 * 🐧:   Contactez-moi sur discord **zonedetec#9544**
 * 📬:   Envoyez moi un e-mail à zonedetec@gmail.com
