@@ -4,11 +4,11 @@
 <p align="left">
   <a href="github.com/zonetecde">
     
-    <img src="[https://img.shields.io/badge/Volunteer%20At-CodeDay-orange?link=https://codeday.org?](https://img.shields.io/github/followers/zonetecde?style=for-the-badge)" alt="Github follower's" />
+    [https://img.shields.io/badge/Volunteer%20At-CodeDay-orange?link=https://codeday.org?](https://img.shields.io/github/followers/zonetecde?style=for-the-badge)
     
   </a>
   <a href="github.com/zonetecde">
-    <img alt="GitHub stars" src="[https://img.shields.io/github/followers/KaiDevrim?color=green&logo=github](https://img.shields.io/github/stars/zonetecde?style=for-the-badge)">
+    [https://img.shields.io/github/followers/KaiDevrim?color=green&logo=github](https://img.shields.io/github/stars/zonetecde?style=for-the-badge)
   </a>
 </p>
 
