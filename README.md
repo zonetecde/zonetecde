@@ -22,18 +22,4 @@
 <br>
 <br/>
 
-<h2>Mes plus gros projets :</h2>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/zonetecde/WpfInfiniteBoard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zonetecde&repo=WpfInfiniteBoard" alt="WpfInfiniteBoard" />
-  </a>
-    <a href="https://github.com/zonetecde/Scrabble">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zonetecde&repo=Scrabble" alt="Scrabble" />
-  </a>
-    <a href="https://github.com/zonetecde/Video-Cleaner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zonetecde&repo=Video-Cleaner" alt="Video-Cleaner" />
-  </a>
-</div>
+[![zonetecde's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zonetecde)](https://github.com/zonetecde/github-readme-stats)
