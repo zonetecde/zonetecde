@@ -22,4 +22,9 @@
 <br>
 <br/>
 
-[![zonetecde's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zonetecde)](https://github.com/zonetecde/github-readme-stats)
+<br/>
+<p align="center">
+   <a href="https://wakatime.com/@zonetecde">  
+    <img alt="Wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=zonetecde">
+  </a>
+</p>
