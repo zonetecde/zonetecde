@@ -27,4 +27,8 @@
    <a href="https://wakatime.com/@zonetecde">  
     <img alt="Wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=@zonetecde&custom_title=Coding%20activity">
   </a>
-</p>
+  
+  <p align="center"><i>Depuis le 10 novembre 2022</i></p>
+</p> 
+
+
