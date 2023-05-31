@@ -10,6 +10,7 @@
 <a href="#zonetecde-title">
   
   <img src="https://github-readme-stats.vercel.app/api?username=zonetecde&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="kaidevrim" align="right" />
+
 </a>
 
 * :office:  Étudiant au lycée Louis Vincent à Metz en première général 
@@ -30,5 +31,8 @@
   
   <p align="center"><i>Depuis le 10 novembre 2022</i></p>
 </p> 
+
+  <p align="center"><a  href="https://www.buymeacoffee.com/zonetecde">  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"  height="50"  width="210"  alt="bylkamar"  /></a></p>
+
 
 
