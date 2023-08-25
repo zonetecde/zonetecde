@@ -15,7 +15,7 @@
 
 * :office:  Étudiant au lycée Louis Vincent à Metz en première général 
 * 🗣️  رضيت بالله ربا و بالإسلام دينا و بمحمد نبي
-* :seedling:   C#, Python, WPF, HTML, CSS, JavaScript  
+* :seedling:   C#, WPF, Python, React, HTML, CSS, TypeScript  
 * :speech_balloon:   Ouvert à toute demande
 * 🐧:   Contactez-moi sur discord : **zonedetec#9544**
 * 📬:   Envoyez-moi un e-mail à zonedetec@gmail.com
