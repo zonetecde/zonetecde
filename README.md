@@ -13,7 +13,7 @@
 
 </a>
 
-* :office:  Étudiant au lycée Louis Vincent à Metz en première général 
+* :office:  Étudiant au lycée Louis Vincent à Metz en terminale générale 
 * 🗣️  رضيت بالله ربا و بالإسلام دينا و بمحمد نبي
 * :seedling:   C#, WPF, Python, React, React Native, TS  
 * :speech_balloon:   Ouvert à toute demande
