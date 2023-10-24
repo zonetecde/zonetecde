@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/zonetecde">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/zonetecde?style=for-the-badge">
+    <img alt="GitHub followers" alt="<s>https://www.rayanestaszewski.fr</s>" src="https://img.shields.io/github/followers/zonetecde?style=for-the-badge">
   </a>
   <a href="https://github.com/zonetecde">
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/zonetecde?style=for-the-badge">
