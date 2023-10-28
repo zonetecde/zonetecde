@@ -14,7 +14,6 @@
 </a>
 
 * :office: Étudiant au lycée Louis Vincent à Metz en terminale générale
-* 🗣️ رضيت بالله ربا و بالإسلام دينا و بمحمد نبي
 * :seedling: C#, WPF, Svelte, React, Python, React Native, TypeScript/JavaScript
 * :speech_balloon: Ouvert à toute demande
 * 🐧: Contactez-moi sur Discord: **zonedetec**
