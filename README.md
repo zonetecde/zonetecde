@@ -1,8 +1,3 @@
-# <p align="center"><strong>ربن أفرغ علين صبرا وثبت أقدامن وانصرن علي القوم الكافرين</strong></p>
-
-<p align="center">
-  <img src="https://github.com/zonetecde/zonetecde/assets/56195432/249a5144-1767-457b-8e60-9426a217f899" alt="Palestine Will Be Free">
-</p>
 
 
 <p align="center">
