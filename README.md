@@ -29,8 +29,8 @@
   <p align="center"><i>Depuis le 10 novembre 2022</i></p>
 </p>
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/zonetecde">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bylkamar">
+<p align="center" style="background-color: white; border: 2px solid #e1e4e8; border-radius: 10px; display: inline-block; padding: 10px;">
+  <a href="https://ko-fi.com/zonetecde" style="color: #0366d6; text-decoration: none;">
+    Me faire un don
   </a>
 </p>
