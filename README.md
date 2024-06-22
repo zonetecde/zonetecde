@@ -22,11 +22,18 @@
 * 📬: Envoyez-moi un e-mail à zonedetec@gmail.com
 </div>
 
+
 <p align="center"> 
+  <br/>
   <a href="https://wakatime.com/@zonetecde">
     <img src="https://wakatime.com/share/@zonetecde/3ec7af37-914d-4574-8d2c-5bfa86510776.png">
   </a>
   <p align="center"><i>Depuis le 10 novembre 2022</i></p>
+</p>
+
+<br/>
+<p align="center" > 
+    <img src="https://github.com/zonetecde/zonetecde/assets/56195432/cfc505d2-69f0-4421-90f2-46cffcea9536" width=300>
 </p>
 
 <p align="center" style="background-color: white; border: 2px solid #e1e4e8; border-radius: 10px; display: inline-block; padding: 10px;">
