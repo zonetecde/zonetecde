@@ -16,7 +16,7 @@
 </a>
 
 * :office: Étudiant au lycée Louis Vincent à Metz en terminale générale
-* :seedling: C#, WPF, Svelte, React, Python, React Native, TypeScript/JavaScript
+* :seedling: Svelte, C#, WPF, React, Python, React Native, TypeScript/JavaScript
 * :speech_balloon: Ouvert à toute demande
 * 🐧: Contactez-moi sur Discord: **zonedetec**
 * 📬: Envoyez-moi un e-mail à zonedetec@gmail.com
