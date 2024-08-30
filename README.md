@@ -15,7 +15,7 @@
   <img src="https://wakatime.com/share/@zonetecde/f484fce8-23b4-4268-8e48-9654df42d0b2.png" width="70%" align="right">
 </a>
 
-* :office: Étudiant au lycée Louis Vincent à Metz en terminale générale
+* :office: Étudiant à l'IUT Nancy-Charlemagne en BUT Informatique
 * :seedling: Svelte, C#, WPF, React, Python, React Native, TypeScript/JavaScript
 * :speech_balloon: Ouvert à toute demande
 * 🐧: Contactez-moi sur Discord: **zonedetec**
