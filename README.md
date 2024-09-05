@@ -37,7 +37,7 @@
 </p>
 
 <p align="center" style="background-color: white; border: 2px solid #e1e4e8; border-radius: 10px; display: inline-block; padding: 10px;">
-  <a href="https://ko-fi.com/zonetecde" style="color: #0366d6; text-decoration: none;">
+  <a href="https://ko-fi.com/vzero" style="color: #0366d6; text-decoration: none;">
     Me faire un don
   </a>
 </p>
