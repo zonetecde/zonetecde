@@ -33,7 +33,7 @@
 
 <br/>
 <p align="center" > 
-    <img src="https://github.com/zonetecde/zonetecde/assets/56195432/cfc505d2-69f0-4421-90f2-46cffcea9536" width=300>
+    <img src="https://github.com/user-attachments/assets/ef2155a8-7ce7-4224-a5a9-9e4e23dac6df" width=300>
 </p>
 
 <p align="center" style="background-color: white; border: 2px solid #e1e4e8; border-radius: 10px; display: inline-block; padding: 10px;">
