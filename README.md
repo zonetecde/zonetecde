@@ -16,7 +16,7 @@
 </a>
 
 * :office: Étudiant à l'IUT Nancy-Charlemagne en BUT Informatique
-* :seedling: Svelte, C#, WPF, React, Python, React Native, TypeScript/JavaScript
+* :seedling: Svelte, C#, WPF, React, Python, React Native, TypeScript/JavaScript, Playwright, TailwindCSS
 * :speech_balloon: Ouvert à toute demande
 * 🐧: Contactez-moi sur Discord: **zonedetec**
 * 📬: Envoyez-moi un e-mail à zonedetec@gmail.com
